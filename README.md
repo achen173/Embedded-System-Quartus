@@ -1,4 +1,5 @@
 # Embedded-System-Quartus
+UMASS ECE332
 
 This is embedded systems engineering lab at University of Massachusetts Amherst for Spring 2020 focusing on FPGA
 
